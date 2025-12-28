@@ -1,4 +1,4 @@
-# MultiLLM Frontend
+# CorrieLLM Frontend
 
 A Next.js web application for querying multiple frontier LLM providers and comparing their responses.
 

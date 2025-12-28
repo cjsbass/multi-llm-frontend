@@ -90,7 +90,7 @@ export default function Home() {
         <div className="p-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Sparkles className="w-5 h-5" />
-            <span className="font-semibold">MultiLLM</span>
+            <span className="font-semibold">CorrieLLM</span>
           </div>
           <button
             onClick={() => setSidebarOpen(false)}

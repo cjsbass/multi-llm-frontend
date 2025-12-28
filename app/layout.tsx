@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "MultiLLM - Compare AI Responses",
-  description: "Query multiple LLMs and compare their responses",
+  title: "CorrieLLM - Compare AI Responses",
+  description: "Query multiple frontier LLMs and compare their responses",
 };
 
 export default function RootLayout({
